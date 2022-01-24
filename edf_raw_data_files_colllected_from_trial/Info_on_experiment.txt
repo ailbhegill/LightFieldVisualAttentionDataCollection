@@ -1,0 +1,3 @@
+Files 1,2 and 11 were not counted. 1 and 2 were tests and the experiment froze mid way through run 11. 
+Problems later found with edf files 8 and 17.
+So edfs files 3-7,9,10,12-16,18-26 were used. In total 21 files.
